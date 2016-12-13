@@ -1,5 +1,13 @@
 #Training: Express Routing Practice
 
+Alessandro Pianetta
+
+Working on server-side programs was much harder than front end. I was lost most of the time since I had no idea where errors were going wrong, as no error messages would show up in either console. Things would work on the server-side, but be completely broken on the client-side. Plus, if there's a single error, your server won't start up and it'll be impossible to check anything until you find the error. I eventually worked over three hours and ended up giving up for the night because I couldn't figure out where any of the errors were.
+
+https://github.com/aapiane09/express-routes-training
+
+
+
 ### Deliverable
 
 1. When you wrap up work, edit this README to include your name, a link to the original repository, and a 3-5 sentence reflection on completing this assignment at the top of the document.
